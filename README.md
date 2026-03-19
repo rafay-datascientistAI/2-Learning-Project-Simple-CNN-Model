@@ -32,9 +32,7 @@ I built a simple CNN model to classify images using the MNIST dataset.
 ## 🛠️ Technologies Used
 
 - Python  
-- TensorFlow / Keras  
-- NumPy  
-- Matplotlib  
+- Pytorch  
 
 ---
 
